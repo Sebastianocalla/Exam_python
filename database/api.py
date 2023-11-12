@@ -1,7 +1,6 @@
 
 #importo le libreire necessarie per svolgere le API
 import numpy as np
-from fastapi import FastAPI
 #importo il database e il model presenti nei file db. e model.
 from database.db import *
 from database.model import *
